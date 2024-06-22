@@ -1,22 +1,33 @@
 # 👋 Hi, I'm Matúš
 
-## 👀 Interests
-- I have a **keen interest in Python and JavaScript.**
+- ##📍 Presov, Slovakia
+- ##📧 matuskocik@gmail.com
+- ##🔗 [LinkedIn](https://www.linkedin.com/in/matuskocik/)
 
-## 🌱 Learning
-- Currently, I'm **enhancing my skills** through courses on **Udemy, Skillmea**, and various **YouTube tutorials**.
+## 🌟 About Me
+- I am a professional welder with a profound passion for programming.
+- My journey in tech began with a deep dive into Python, continued with mastering software testing, and is now expanding into JavaScript.
+- Every day, I dedicate time to personal projects, sharing my progress and learning on GitHub.
+- These ventures are more than just a hobby—they are stepping stones towards my aspiration of a career in software development.
 
-## 💞️ Collaboration
-- I'm **eager to collaborate on Python projects**, especially those that can challenge and expand my programming skills.
+## 💡 Interests
+- **Python**: Proficient and always exploring new libraries
+- **JavaScript**: Currently broadening my skills
+- **Software Testing**: Trained and methodical
 
-## 🚀 About Me
-- I am **driven and ambitious**, having embarked on an intensive educational journey focused primarily on **Python** and the **English language**.
-- My motivation to transform my life is strong, and I dedicate myself to **learning new skills every day**.
-- A top priority for me is to **become a software developer**.
+## 📚 Learning
+I'm continually **enhancing my tech skills** with courses on **Udemy, Skillmea**, and insightful **YouTube** tutorials.
 
-## 📈 Current Project
-- Recently, I've begun working on my own **real-world project** using **Python and Django**. This project is providing me invaluable practical experience.
+## 💻 Current Project
+- Recently, I've been developing a real-world application using Python and Django, which has been a significant learning experience.
+- Check out my projects and feel free to contribute or suggest improvements!
 - 🌐 [Link to my project](https://github.com/matus-kocik/wpaczsk)
+
+## 👥 Collaboration
+- I am always open to interesting collaborations that can challenge and expand my programming abilities.
+
+## ✨ Let's Connect!
+- If you're looking for someone passionate and dedicated, or if you have an opportunity that aligns with my skills, please don't hesitate to reach out.
 
 ---
 
