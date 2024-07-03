@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Matúš
 
-- ##📍 Presov, Slovakia
-- ##📧 matuskocik@gmail.com
-- ##🔗 [LinkedIn](https://www.linkedin.com/in/matuskocik/)
+- 📍 Presov, Slovakia
+- 📧 matuskocik@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/matuskocik/)
 
 ## 🌟 About Me
 - I am a professional welder with a profound passion for programming.
