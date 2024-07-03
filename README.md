@@ -16,7 +16,7 @@
 - **Software Testing**: Trained and methodical
 
 ## 📚 Learning
-I'm continually **enhancing my tech skills** with courses on **Udemy, Skillmea**, and insightful **YouTube** tutorials.
+- I'm continually **enhancing my tech skills** with courses on **Udemy, Skillmea**, and insightful **YouTube** tutorials.
 
 ## 💻 Current Project
 - Recently, I've been developing a real-world application using Python and Django, which has been a significant learning experience.
