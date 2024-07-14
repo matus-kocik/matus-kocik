@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matúš
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mynerve&size=40&duration=4500&pause=1500&color=F77D10&background=FFFFFF00&random=false&width=250&lines=Hello+everyone!)](https://git.io/typing-svg)
 
 - 📍 Presov, Slovakia
 - 📧 matuskocik@gmail.com
