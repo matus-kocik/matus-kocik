@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mynerve&size=40&duration=4500&pause=2000&color=F77D10&background=FFFFFF00&center=true&vCenter=true&random=false&width=250&height=45&lines=Hello+everyone!)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=matus-kocik&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=matus-kocik&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matus-kocik&show_icons=true&theme=great-gatsby&bg_color=00000000)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matus-kocik&show_icons=true&bg_color=00000000)
 
