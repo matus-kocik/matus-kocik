@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mynerve&size=40&duration=4500&pause=2000&color=F77D10&background=FFFFFF00&center=true&vCenter=true&random=false&width=250&height=45&lines=Hello+everyone!)](https://git.io/typing-svg)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matus-kocik&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matus-kocik&show_icons=true&theme=transparent)
+
 ## 🌟 About Me
 - I am a professional welder with a profound passion for programming.
 - My journey in tech began with a deep dive into Python, continued with mastering software testing, and is now expanding into JavaScript.
