@@ -37,12 +37,20 @@
 
 ---
 
-### 📚 Learning
-- I'm continually **enhancing my tech skills** with courses on **Software Development Academy, Engeto, Robot_dreams, Udemy, Skillmea**, and insightful **YouTube** tutorials.
+### 📚 Learning:
+
+- **Software Development Academy**
+- **Engeto**
+- **Robot_dreams**
+- **Udemy**
+- **Skillmea**
+- **YouTube**
+- **LinkedIn Learning**
 
 ---
 
-### 💻 Current Project
+### 💻 Current Project:
+
 - 🌐 [Link to my project](https://github.com/matus-kocik/wpaczsk)
 
 ---
