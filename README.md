@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mynerve&size=40&duration=4500&pause=2000&color=F77D10&background=FFFFFF00&random=false&width=250&lines=Hello+everyone!)](https://git.io/typing-svg)
-
-- 📍 Presov, Slovakia
-- 📧 matuskocik@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/matuskocik/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mynerve&size=40&duration=4500&pause=2000&color=F77D10&background=FFFFFF00&center=true&vCenter=true&random=false&width=250&height=45&lines=Hello+everyone!)](https://git.io/typing-svg)
 
 ## 🌟 About Me
 - I am a professional welder with a profound passion for programming.
