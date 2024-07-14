@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About me:
-- I am a professional welder with immense passion for programming, which allows me to continuously explore and evolve.
+- I am a professional welder with a profound passion for programming, which drives my continual exploration and growth.
 
 ---
 
