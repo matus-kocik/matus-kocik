@@ -1,11 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mynerve&size=40&duration=4500&pause=2000&color=CE690E&background=FFFFFF00&center=true&vCenter=true&random=false&width=250&height=45&lines=Hello+everyone!)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matus-kocik&show_icons=true&theme=great-gatsby&bg_color=00000000&title_color=CE690EFF&icon_color=CE690EFF&text_color=C19310FF&rank_icon=github&include_all_commits=false&line_height=30)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matus-kocik&theme=great-gatsby&bg_color=00000000&title_color=CE690EFF&icon_color=CE690EFF&text_color=C19310FF&rank_icon=github&include_all_commits=false&line_height=30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mynerve&size=40&duration=4500&pause=2000&color=CE690E&background=FFFFFF00&center=true&vCenter=true&random=false&width=980&height=45&lines=Hello+everyone!)](https://git.io/typing-svg)
 
-
-
-## 🌟 About Me
+## 🌟 About me
 - I am a professional welder with a profound passion for programming.
 - My journey in tech began with a deep dive into Python, continued with mastering software testing, and is now expanding into JavaScript.
 - Every day, I dedicate time to personal projects, sharing my progress and learning on GitHub.
@@ -34,6 +30,10 @@
 
 Please do not hesitate to reach out if you have suggestions or opportunities for collaboration.
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matus-kocik&theme=great-gatsby&bg_color=00000000&title_color=CE690EFF&icon_color=CE690EFF&text_color=C19310FF&line_height=20)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matus-kocik&show_icons=true&theme=great-gatsby&bg_color=00000000&title_color=CE690EFF&icon_color=CE690EFF&text_color=C19310FF&rank_icon=github&include_all_commits=false&line_height=30)
 
 <!---
 matus-kocik/matus-kocik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
