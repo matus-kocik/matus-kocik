@@ -54,6 +54,7 @@
 ### 💻 Current Project:
 
 - 🌐 [Link to my project](https://github.com/matus-kocik/wpaczsk)
+- 🌐 [Link to my project](https://github.com/matus-kocik/finance_manager)
 
 ---
 
