@@ -53,8 +53,8 @@
 
 ### 💻 Current Project:
 
-- 🌐 [Link to my project](https://github.com/matus-kocik/wpaczsk)
-- 🌐 [Link to my project](https://github.com/matus-kocik/finance_manager)
+- 🌐 [Link to my project - WPA CZ-SK](https://github.com/matus-kocik/wpaczsk) 
+- 🌐 [Link to my project - Finance Manager](https://github.com/matus-kocik/finance_manager)
 
 ---
 
