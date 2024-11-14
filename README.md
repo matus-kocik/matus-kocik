@@ -53,7 +53,7 @@
 
 ### 💻 Current Project:
 
-- 🌐 [Link to my project - Finance Manager](https://github.com/matus-kocik/finance_manager)
+- 🌐 ...
 
 ---
 
