@@ -53,6 +53,7 @@
 - **YouTube**
 - **LinkedIn Learning**
 
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matus-kocik&theme=great-gatsby&bg_color=00000000&title_color=CE690EFF&icon_color=CE690EFF&text_color=C19310FF&line_height=20)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matus-kocik&show_icons=true&theme=great-gatsby&bg_color=00000000&title_color=CE690EFF&icon_color=CE690EFF&text_color=C19310FF&rank_icon=github&include_all_commits=false&line_height=30)
