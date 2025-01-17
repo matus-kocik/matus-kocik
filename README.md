@@ -13,7 +13,7 @@
 
 ### 💻 Current Project
 
-- 🌐 [WPA CZ SK](https://github.com/matus-kocik/wpaczsk)
+- 🌐 ...
 
 ---
 
