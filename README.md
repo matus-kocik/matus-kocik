@@ -13,7 +13,7 @@
 
 ### 💻 Current Project
 
-- 🌐 ...
+- 🌐 [My Django template](https://github.com/matus-kocik/django-template)
 
 ---
 
