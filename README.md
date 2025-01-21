@@ -69,15 +69,15 @@
 
 ---
 
-### 📚 Learning:
+### 📚 **Learning:**
 
-- **Software Development Academy**
-- **Engeto**
-- **Robot_dreams**
-- **Udemy**
-- **Skillmea**
-- **YouTube**
-- **LinkedIn Learning**
+- 🎓 **Software Development Academy**
+- 📚 **Engeto**
+- 🤖 **Robot_dreams**
+- 🎓 **Udemy**
+- 💡 **Skillmea**
+- 📺 **YouTube**
+- 📘 **LinkedIn Learning**
 
 ---
 
