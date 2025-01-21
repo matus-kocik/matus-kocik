@@ -22,12 +22,11 @@
 
 - #### 🔧 **WPA CZ-SK Website Redesign** (Coming soon)
   A complete overhaul to create a new web application/website with:
+  - [Current WPA CZ-SK Website](http://wpacz-sk.com/)
   - 🔑 Member section
   - 📊 Breeding statistics and analytics
   - 🛠️ Custom features and improvements
   - ⚙️ And more!
-
-🌐 [Current WPA CZ-SK Website](http://wpacz-sk.com/)
 
 - #### 🖥️ **KocoHub – Personal "ERP System"** (Coming soon)
   An all-in-one personal assistant system, integrating:
