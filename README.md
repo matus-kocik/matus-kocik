@@ -13,7 +13,31 @@
 
 ### 💻 Current Project
 
-- 🌐 [My Django template](https://github.com/matus-kocik/django-template)
+#### 🔧 **Django Template**
+- 🌐 [My Django template](https://github.com/matus-kocik/django-template)  
+  A simple and reusable Django template to kickstart web development, featuring a preconfigured setup with:
+  - 🔧 Common tools and libraries
+  - 📜 Best practices for Django development
+  - ⚡ Ready-to-go configurations for fast project initiation
+
+#### 🔧 **WPA CZ-SK Website Redesign** (Coming soon)
+A complete overhaul to create a new web application/website with:
+- 🔑 Member section
+- 📊 Breeding statistics and analytics
+- 🛠️ Custom features and improvements
+- ⚙️ And more!
+
+🌐 [Current WPA CZ-SK Website](http://wpacz-sk.com/)
+
+#### 🖥️ **KocoHub – Personal "ERP System"** (Coming soon)
+An all-in-one personal assistant system, integrating:
+- 💸 Finance management (income, expenses)
+- 📝 Notes and to-do lists
+- ✍️ Blog and personal content creation
+- 📚 Learning resources and educational materials
+- 🗂️ And more!
+
+It’s like a personal office suite to organize and manage everything in one app.
 
 ---
 
