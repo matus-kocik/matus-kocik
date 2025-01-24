@@ -24,6 +24,7 @@
 
 - #### 🔧 **WPA CZ-SK Website Redesign** (Coming soon)
 
+
   [Current WPA CZ-SK Website](http://wpacz-sk.com/)
 
   A complete overhaul to create a new web application/website with:
@@ -33,6 +34,8 @@
   - ⚙️ And more!
 
 - #### 🖥️ **KocoHub – Personal "ERP System"** (Coming soon)
+
+  🌐 [KocoHub](https://github.com/matus-kocik/koco-hub)
 
   An all-in-one personal assistant system, integrating:
   - 💸 Finance management (income, expenses)
