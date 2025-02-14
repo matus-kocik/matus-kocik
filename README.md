@@ -23,7 +23,7 @@
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)
-...and more...
+- ...and more...
 ---
 
 ### 📚 **Learning:**
