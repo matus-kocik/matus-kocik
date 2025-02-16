@@ -11,12 +11,6 @@
 
 ---
 
-### 🌍 My Website:
-
-**[Visit my website](https://www.matuskocik.com/)**
-
----
-
 ### 💡 Interests:
 
 ![Python](https://img.shields.io/badge/Python-ffd43b?style=for-the-badge&logo=python&logoColor=306998)
