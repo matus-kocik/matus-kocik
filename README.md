@@ -13,7 +13,7 @@
 
 ### 🌍 My Website:
 
-🌐 **[Visit my website](https://www.matuskocik.com/)**
+**[Visit my website](https://www.matuskocik.com/)**
 
 ---
 
@@ -23,19 +23,10 @@
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)
-- ...and more...
 ---
-
-### 📚 **Learning:**
-
-- 🎓 **Software Development Academy**
-- 📚 **Engeto**
-- 🤖 **Robot_dreams**
-- 🎓 **Udemy**
-- 💡 **Skillmea**
-- 📺 **YouTube**
-- 📘 **LinkedIn Learning**
-
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matus-kocik&theme=great-gatsby&bg_color=00000000&title_color=CE690EFF&icon_color=CE690EFF&text_color=C19310FF&line_height=20)
