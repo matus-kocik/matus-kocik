@@ -21,6 +21,7 @@
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matus-kocik&theme=great-gatsby&bg_color=00000000&title_color=CE690EFF&icon_color=CE690EFF&text_color=C19310FF&line_height=20)
