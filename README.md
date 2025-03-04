@@ -7,7 +7,7 @@
 ---
 
 ### 🌟 About me:
-- As a professional welder, I bring the same precision and dedication to programming, proving it’s never too late to follow your passions and grow in a new field.
+- As a professional welder, I bring the same precision and dedication to programming, proving it’s never too late to follow your passions and grow in a new field...
 
 ---
 
